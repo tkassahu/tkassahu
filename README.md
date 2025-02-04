@@ -53,7 +53,7 @@ Designed a secure framework for military healthcare data governance.
 ## Connect with Me  
 
 - LinkedIn: [linkedin.com/in/tsegiekassahun](https://www.linkedin.com/in/tsegiekassahun/)  
-- Portfolio: [github.com/tkassahu/health-data-science-projects](https://github.com/tkassahu/health-data-science-projects)  
+- Portfolio: [(https://github.com/tkassahu/health-data-science-projects](https://github.com/tkassahu))  
 - Email: tkassahu@gmail.com 
 
 
